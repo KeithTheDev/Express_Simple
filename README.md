@@ -8,7 +8,6 @@
 
 1. run `npm run savage`
 2. Navigate to `localhost:8000`
-# simpleExpress
 
 # Express_Demo
 This was template we used during Resilient Coders to understand Express and MongoDB
