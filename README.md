@@ -11,7 +11,7 @@
 # simpleExpress
 
 # Express_Demo
-This was template we used to understand Express and MongoDB
+This was template we used during Resilient Coders to understand Express and MongoDB
 
 ![alt tag](https://i.imgur.com/uVnhS3R.png)
 
