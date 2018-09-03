@@ -25,11 +25,4 @@ This was template we used during Resilient Coders to understand Express and Mong
 - How to manage a database with MongoDB
 - How to use Node modules
 
-## Examples:
-Other examples from my portfolio:
-
-**This template with a little CSS:** https://github.com/vhparadajr/Express_Simple_Custom
-
-**BTC Price Prediction:** https://github.com/vhparadajr/Express_BTC_app
-
 
